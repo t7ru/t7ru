@@ -1,6 +1,7 @@
 <div align="center">
 <img src="tofulogo.png" width="600"/>
-  
+<img src="https://komarev.com/ghpvc/?username=t7ru&style=pixel" />
+
 I am a terrible developer!<br/>
 Yet, I like developing things in my free time, dehehehe.
 
