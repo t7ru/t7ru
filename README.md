@@ -3,7 +3,8 @@
 <img src="tofulogo.png" width="600"/>
 
 I am a terrible developer!<br/>
-Yet, I like developing things in my free time, dehehehe.
+Yet, I like developing things in my free time, dehehehe.<br/>
+Below are some of the things I think I am good at:
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23712CF9.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white)
