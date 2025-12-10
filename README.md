@@ -4,7 +4,7 @@
 
 I am a terrible developer!<br/>
 Yet, I like developing things in my free time, dehehehe.<br/>
-Below are some of the things I think I am good at:
+Below are some of the things I frequently dabble with:
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23712CF9.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white)
@@ -16,5 +16,6 @@ Below are some of the things I think I am good at:
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23FF3C00.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338bdf8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 </div>
