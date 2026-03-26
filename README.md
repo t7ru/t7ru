@@ -14,6 +14,7 @@ Below are some of the things I frequently dabble with:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+[![Rust](https://img.shields.io/badge/Rust-%23D34516.svg?style=for-the-badge&logo=rust&logoColor=white)](#)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23FF3C00.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338bdf8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
