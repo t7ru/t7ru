@@ -1,4 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=t7ru&style=pixel"/>
 <div align="center">
 <img src="tofulogo.png" width="600"/>
 
@@ -19,4 +18,4 @@ Below are some of the things I frequently dabble with:
 ![Svelte](https://img.shields.io/badge/svelte-%23FF3C00.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338bdf8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-</div>
+</div><img src="https://komarev.com/ghpvc/?username=t7ru&style=pixel"/>
