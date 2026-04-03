@@ -1,9 +1,16 @@
 <div align="center">
 <img src="tofulogo.png" width="600"/>
 
-I am a developer of... varying success!<br/>
-Yet, I like developing things in my free time, dehehehe.<br/>
-Below are some of the things I frequently dabble with:
+<table width="100%">
+  <tr>
+    <td width="150"><img src="tofuicon.png" width="150"/></td>
+    <td>
+      <strong>I am a developer of... varying success!</strong><br/>
+      Yet, I like developing things in my free time, dehehehe.<br/>
+      Below are some of the things I frequently dabble with!
+    </td>
+  </tr>
+</table>
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23712CF9.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white)
