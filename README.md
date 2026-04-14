@@ -13,10 +13,10 @@
 </table>
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23ff4242.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23ffa2a2.svg?style=for-the-badge&logo=unity&logoColor=black)
-![Go](https://img.shields.io/badge/go-%23ff4242.svg?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23ffa2a2.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Lua](https://img.shields.io/badge/lua-%23ff4242.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Go](https://img.shields.io/badge/go-%23ffa2a2.svg?style=for-the-badge&logo=go&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-%23ff4242.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%23ffa2a2.svg?style=for-the-badge&logo=lua&logoColor=black)
+![Luau](https://img.shields.io/badge/luau-%23ff4242.svg?style=for-the-badge&logo=luau&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23ffa2a2.svg?style=for-the-badge&logo=php&logoColor=black)
 ![Python](https://img.shields.io/badge/python-%23ff4242.svg?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23ffa2a2.svg?style=for-the-badge&logo=r&logoColor=black)
