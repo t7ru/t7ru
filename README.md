@@ -7,7 +7,7 @@
     <td width="450" align="left">
       <strong>I am a developer of... varying success!</strong><br/>
       Yet, I like developing things in my free time, dehehehe.<br/>
-      Below are some of the things I frequently dabble with!
+      Below are some of the languages I frequently dabble with!
     </td>
   </tr>
 </table>
