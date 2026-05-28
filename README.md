@@ -17,8 +17,6 @@
 ![Lua](https://img.shields.io/badge/lua-%23ffa2a2.svg?style=for-the-badge&logo=lua&logoColor=black)
 ![Luau](https://img.shields.io/badge/luau-%23ff4242.svg?style=for-the-badge&logo=luau&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23ffa2a2.svg?style=for-the-badge&logo=php&logoColor=black)
-![Python](https://img.shields.io/badge/python-%23ff4242.svg?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-%23ffa2a2.svg?style=for-the-badge&logo=r&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-%23ff4242.svg?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23ffa2a2.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23ffa2a2.svg?style=for-the-badge&logo=typescript&logoColor=black)
 </div>
